@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @CharlesFromBR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+📍Curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas, previsão de término no final de 2023.
 
-<!---
-CharlesFromBR/CharlesFromBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Atualmente (7 meses), desempenho atividades focadas em desenvolvimento web com PHP na Marinha Do Brasil
+ 💻
+
+Desenvolvo habilidades diárias nas seguintes competências: 
+
+-Html, Css, JavaScript Bootstrap;
+- MVC no PHP;
+- linguagem SQL;
+- Banco de Dados Oracle;
+
+"É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso."
+Bill Gates
