@@ -1,6 +1,6 @@
 📍Curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas, previsão de término no final de 2023.
 
-- Atualmente (7 meses), desempenho atividades focadas em desenvolvimento web com PHP na Marinha Do Brasil
+- Atualmente (1 ano), desempenho atividades focadas em desenvolvimento web com PHP na Marinha Do Brasil
  💻
 
 Desenvolvo habilidades diárias nas seguintes competências: 
